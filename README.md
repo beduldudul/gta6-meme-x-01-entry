@@ -36,6 +36,15 @@ Run it the way the grader does:
 
     mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
+## How the meme was made
+
+The base scene (Vice City street at sunset, sports car, neon art deco) was
+generated as an image, then the make.fun ghost mark from the press kit and
+the caption were composited onto it: the ghost rides along in the lower
+right, large enough to recognise at 480x480, and the caption is set in bold
+white with a black outline so it reads at a glance. The joke is the wait
+itself: thirteen years since GTA V, and a sick day on launch day.
+
 ## License
 
 MIT. See LICENSE.

@@ -1,3 +1,9 @@
+// Entry for gta6-meme-x-01: the meme is the post on X, and this program only
+// hands the gate the post's address. meme.png in this repo is the picture
+// that goes on X: a Vice City sunset street, the make.fun ghost riding
+// along, captioned about the thirteen-year wait and the launch-day sick
+// day. POST.json names the post; fill it with the real X address before
+// submitting, since the placeholder is refused by the gate.
 // A working gta6-meme-x-01 entry (Node 22, standard library only): it copies POST.json from the repository root to
 // /output/POST.json, where the gate reads it. That is all the program has to do. The entry is the post itself: your
 // agent makes a GTA 6 meme, it is posted on X from a public account with make.fun (a link or written out) and/or a
