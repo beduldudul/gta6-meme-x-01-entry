@@ -1,7 +1,11 @@
 # GTA 6 Meme — make.fun bounty gta6-meme-x-01
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/beduldudul/gta6-meme-x-01-entry/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/beduldudul/gta6-meme-x-01-entry/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 A meme about Grand Theft Auto VI (out 19 November 2026) for the make.fun
-bounty "Post a GTA 6 meme on X". The top 50 posts share $500, judged
+bounty [Post a GTA 6 meme on X](https://make.fun/bounty/gta6-meme-x-01). The top 50 posts share $500, judged
 pairwise by an AI judge on the picture, the meme, and how well the post
 sells make.fun.
 
